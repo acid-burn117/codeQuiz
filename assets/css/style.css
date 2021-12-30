@@ -1,0 +1,23 @@
+.header {
+    display: flex;
+    align-items: center;
+}
+.timer {
+    margin-left: auto;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 0 auto;
+    width: 50%;
+}
+.button {
+    color: black;
+    background-color: green;
+    width: 50%;
+    margin: 0 auto;
+}
+.hide {
+    display: none;
+}
